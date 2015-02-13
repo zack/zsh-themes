@@ -1,0 +1,3 @@
+Just a simple modification to the robbyrussell zsh theme that indicates:
+1) Whether or not you're in a tmux window and
+2) The machine name of your machine if and only if you are currently SSH'd in
